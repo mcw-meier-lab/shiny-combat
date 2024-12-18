@@ -1,0 +1,5 @@
+.R*
+venv/
+renv/
+rsconnect/
+.Rproj.user
